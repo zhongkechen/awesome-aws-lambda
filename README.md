@@ -86,7 +86,6 @@
   * [**node-lambda** - Command line tool to locally run and deploy your node.js application to Amazon Lambda.](https://github.com/motdotla/node-lambda)
   * [**emulambda** - Python emulator for AWS Lambda.](https://github.com/fugue/emulambda)
   * [**gluo** - Write your Go net/http server once, deploy it everywhere (on-premise & AWS Lambda supported)](https://github.com/imdario/gluo)
-  * [**Async Durable Execution** - Async-first Python SDK for building durable AWS Lambda workflows with native async/await.](https://github.com/zhongkechen/async-durable-execution)
 
 #### Frameworks
   * [**Serveless** - The serverless application framework](https://github.com/serverless/serverless)
@@ -95,6 +94,7 @@
   * [**Chalice** - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
   * [**FuseLess** - Framework for writing AWS Lambda Functions in CFML](https://fuseless.org/)
   * [**Stacktape** - DevOps-free cloud framework with 0 config lambda deployment support](https://stacktape.com)
+  * [**Async Durable Execution** - Async-first Python SDK for building durable AWS Lambda workflows with native async/await.](https://github.com/zhongkechen/async-durable-execution)
 
 ### [Examples]
   * [Lambda Chat](https://github.com/cloudnative/lambda-chat)
